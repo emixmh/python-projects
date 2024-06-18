@@ -1,6 +1,8 @@
 # Python Projctes
 This repository has projects using Python.
 
+
+Projects are organizized chonologically.
 | Project | Description | Original Dataset |
 | --- | --- | --- |
 | [Fifa21](https://github.com/emixmh/python-projects/tree/main/fifa21) | EA Sports' FIFA21, data cleaning | [Kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv%E2%80%8B) |
